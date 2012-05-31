@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.asyncMethod(${1:this}, "${2:method}"${3:, ${4:arguments, ... }})</string>
+	<key>name</key>
+	<string>asyncMethod</string>
+	<key>tabTrigger</key>
+	<string>async</string>
+	<key>uuid</key>
+	<string>B396EBD6-E58E-4846-9833-817C91A84908</string>
+</dict>
+</plist>

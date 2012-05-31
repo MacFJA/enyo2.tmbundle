@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.filter(${1:sourceArray}, ${2:filterFunction}${3:, ${4:context}})</string>
+	<key>name</key>
+	<string>filter</string>
+	<key>tabTrigger</key>
+	<string>filter</string>
+	<key>uuid</key>
+	<string>CA1F7C7B-78EC-43B7-92B1-2D38DF6CDBE2</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.uncap(${TM_SELECTED_TEXT})</string>
+	<key>keyEquivalent</key>
+	<string>~c</string>
+	<key>name</key>
+	<string>uncap</string>
+	<key>tabTrigger</key>
+	<string>cap</string>
+	<key>uuid</key>
+	<string>E17BACA4-640B-4D3F-91B8-07617F039D17</string>
+</dict>
+</plist>

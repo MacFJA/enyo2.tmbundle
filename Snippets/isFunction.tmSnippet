@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.isFunction(${1:it})</string>
+	<key>name</key>
+	<string>isFunction</string>
+	<key>tabTrigger</key>
+	<string>func?</string>
+	<key>uuid</key>
+	<string>3CDEFA58-6C88-40C6-92FA-FDB9A2E6A65C</string>
+</dict>
+</plist>

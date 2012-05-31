@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.indexOf(${1:element}, ${2:inArray}${3:, ${4:fromIndex}})</string>
+	<key>name</key>
+	<string>indexOf</string>
+	<key>tabTrigger</key>
+	<string>indexof</string>
+	<key>uuid</key>
+	<string>CD40D9D2-3C71-4DBA-AD78-98D9521E1AFE</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.setCookie(${1:cookieName}, "", {"Max-Age": 0})</string>
+	<key>name</key>
+	<string>Remove Cookie</string>
+	<key>tabTrigger</key>
+	<string>cookie</string>
+	<key>uuid</key>
+	<string>5DD0CA66-92C9-4245-A126-08D3537772AA</string>
+</dict>
+</plist>

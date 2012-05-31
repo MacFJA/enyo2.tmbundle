@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.kind({
+	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
+	kind: "${3:enyo.Object}",
+	
+	published: {
+		${4:varname}: ${5:""}${6:,
+		//...}
+	},
+	
+	create: function() {
+		this.inherited(arguments);
+		this.$4Changed();
+	},
+	
+	$4Changed: function() {
+		${7://...}
+	}
+});</string>
+	<key>keyEquivalent</key>
+	<string>^k</string>
+	<key>name</key>
+	<string>Kind</string>
+	<key>tabTrigger</key>
+	<string>kind</string>
+	<key>uuid</key>
+	<string>B0949AD1-C59A-49CA-AC13-BEE2C55885E1</string>
+</dict>
+</plist>

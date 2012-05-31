@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.forEach(${1:array}, ${2:function}${3:, ${4:context}})</string>
+	<key>name</key>
+	<string>forEach</string>
+	<key>tabTrigger</key>
+	<string>foreach</string>
+	<key>uuid</key>
+	<string>03BA9C59-85AA-48A2-9E6A-EA7F1044D57D</string>
+</dict>
+</plist>

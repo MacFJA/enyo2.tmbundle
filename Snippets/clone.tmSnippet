@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.clone(${1:objectToClone})</string>
+	<key>keyEquivalent</key>
+	<string>^d</string>
+	<key>name</key>
+	<string>clone</string>
+	<key>tabTrigger</key>
+	<string>clone</string>
+	<key>uuid</key>
+	<string>E7879FA1-377E-4680-A760-C31F03F902FB</string>
+</dict>
+</plist>

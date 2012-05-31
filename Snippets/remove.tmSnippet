@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.remove(${1:element}, ${2:inArray})</string>
+	<key>name</key>
+	<string>remove</string>
+	<key>tabTrigger</key>
+	<string>remove</string>
+	<key>uuid</key>
+	<string>A8844B19-B865-48D1-8EA6-D5E9EA918E2B</string>
+</dict>
+</plist>

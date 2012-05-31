@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.kind({
+	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
+	kind: "enyo.Component",
+	
+	published: {
+		${3:varname}: ${4:""}${5:,
+		//...}
+	},
+
+	events: {
+		${6:onEvent: ""}${7:,
+		//...}
+	},
+
+	statics: {
+		${8://...}
+	},
+
+	handlers: {
+		${9://...}
+	},
+
+	components: [
+		${10://...}
+	],
+
+	create: function() {
+		this.inherited(arguments);
+		this.$3Changed();
+	},
+	
+	$3Changed: function() {
+		${11://...}
+	}
+});</string>
+	<key>name</key>
+	<string>Kind - Component</string>
+	<key>tabTrigger</key>
+	<string>kComponent</string>
+	<key>uuid</key>
+	<string>AD4FD834-6EC9-478F-89A9-5054AF3208A1</string>
+</dict>
+</plist>

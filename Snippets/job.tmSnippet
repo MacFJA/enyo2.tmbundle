@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.job(${1:jobName}, ${2:job}, ${3:wait})</string>
+	<key>name</key>
+	<string>job</string>
+	<key>tabTrigger</key>
+	<string>job</string>
+	<key>uuid</key>
+	<string>D2236C27-899B-47CD-A39A-ABF9AA1A85D4</string>
+</dict>
+</plist>

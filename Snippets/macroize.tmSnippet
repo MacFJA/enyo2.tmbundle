@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.macroize(${1:sourceText}, ${2:map}${3:, ${4:context}})</string>
+	<key>name</key>
+	<string>macroize</string>
+	<key>tabTrigger</key>
+	<string>macro</string>
+	<key>uuid</key>
+	<string>479B0ABE-20F6-4117-82F7-AB99C2CB8810</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.isString(${1:it})</string>
+	<key>name</key>
+	<string>isString</string>
+	<key>tabTrigger</key>
+	<string>string?</string>
+	<key>uuid</key>
+	<string>39EDD1CA-E467-4361-9A7A-F0C3CD504978</string>
+</dict>
+</plist>

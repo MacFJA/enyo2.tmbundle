@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.bind(${1:this}, "${2:method}"${3:, ${4:arguments, ... }})</string>
+	<key>name</key>
+	<string>bind</string>
+	<key>tabTrigger</key>
+	<string>bind</string>
+	<key>uuid</key>
+	<string>795EF891-9F73-4EDF-9DB8-5A2CFFCDD1C6</string>
+</dict>
+</plist>
