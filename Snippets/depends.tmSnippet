@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.depends({
+	"${1:main.js}"${2:,
+	"${3:main.css}"${4:,
+	"${5:sources}"}}
+});</string>
+	<key>name</key>
+	<string>depends</string>
+	<key>tabTrigger</key>
+	<string>depends</string>
+	<key>uuid</key>
+	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+</dict>
+</plist>

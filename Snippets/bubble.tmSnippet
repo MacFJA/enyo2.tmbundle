@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bubble("${1:eventName}", ${2:inEvent}${3:, ${4:inSender}})</string>
+	<key>name</key>
+	<string>bubble</string>
+	<key>tabTrigger</key>
+	<string>bubble</string>
+	<key>uuid</key>
+	<string>078D3218-39D2-4D1B-9AFD-93D7F0242B45</string>
+</dict>
+</plist>

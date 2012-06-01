@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>createComponent({${1:
+	kind: "${2:enyo.Object}",}${3:
+	${4:name}: ${5:value}}
+}${6:,{owner: ${7:other}\}})</string>
+	<key>name</key>
+	<string>createComponent</string>
+	<key>tabTrigger</key>
+	<string>create</string>
+	<key>uuid</key>
+	<string>AD0BEE37-A78E-477A-A54F-4E87ABBC294C</string>
+</dict>
+</plist>

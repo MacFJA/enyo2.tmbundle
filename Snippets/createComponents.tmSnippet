@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>createComponents(${1:[
+    ${3:{name: "bar"\}},
+    ${2:{name: "zot"\}}
+]}${4:, {owner: ${5:other}\}})</string>
+	<key>name</key>
+	<string>createComponents</string>
+	<key>tabTrigger</key>
+	<string>create</string>
+	<key>uuid</key>
+	<string>5017EA4B-1A31-4711-B1CA-DD99EBC800E1</string>
+</dict>
+</plist>
