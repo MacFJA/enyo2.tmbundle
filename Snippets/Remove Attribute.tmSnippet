@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>setAttribute("${1:tabIndex}", null)</string>
+	<key>name</key>
+	<string>Remove Attribute</string>
+	<key>tabTrigger</key>
+	<string>attribute</string>
+	<key>uuid</key>
+	<string>E0BF60E8-E3B4-4544-BD20-E2FE7E814C1D</string>
+</dict>
+</plist>

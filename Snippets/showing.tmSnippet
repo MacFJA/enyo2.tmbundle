@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>setShowing(${1:t}${1/(t)|(f)/(?1:rue)(?2:alse)/})</string>
+	<key>name</key>
+	<string>showing</string>
+	<key>tabTrigger</key>
+	<string>showing</string>
+	<key>uuid</key>
+	<string>FA943276-40F2-4444-937A-0250FA7BD3C8</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>setBounds({${1:width: "${2:100px}", }${3:height: "${4:100px}", }${5:left: "${6:20px}", }${7:top: "${8:20px}", }${9:right: "${10:20px}", }${11:bottom: "${12:20px}"}})</string>
+	<key>name</key>
+	<string>setBounds</string>
+	<key>tabTrigger</key>
+	<string>bounds</string>
+	<key>uuid</key>
+	<string>AFF91A66-FD1A-4DCB-B440-F5E99510430C</string>
+</dict>
+</plist>
