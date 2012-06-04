@@ -7,39 +7,83 @@
 		<string>js</string>
 	</array>
 	<key>foldingStartMarker</key>
-	<string>/\*\*|\{\s*$</string>
+	<string>/\*\*|\{\s*$|\[\s*$</string>
 	<key>foldingStopMarker</key>
-	<string>\*\*/|^\s*\}</string>
+	<string>\*\*/|^\s*\}|^\s*\]</string>
 	<key>name</key>
 	<string>Enyo 2</string>
 	<key>patterns</key>
 	<array>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.class.enyo2</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.animation</string>
+				</dict>
+			</dict>
 			<key>match</key>
-			<string>\b(if|while|for|return)\b</string>
+			<string>\b(enyo)\.(easing)\.(cubicIn|cubicOut|expoOut|linear|quadInOut)\b</string>
 			<key>name</key>
-			<string>keyword.control.untitled</string>
+			<string>support.constant.animation</string>
 		</dict>
 		<dict>
-			<key>begin</key>
-			<string>"</string>
-			<key>end</key>
-			<string>"</string>
-			<key>name</key>
-			<string>string.quoted.double.untitled</string>
-			<key>patterns</key>
-			<array>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
 				<dict>
-					<key>match</key>
-					<string>\\.</string>
 					<key>name</key>
-					<string>constant.character.escape.untitled</string>
+					<string></string>
 				</dict>
-			</array>
+			</dict>
+			<key>match</key>
+			<string>\.\$(?=\.|\[|\s)</string>
+			<key>name</key>
+			<string>support.constant.other</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.class.enyo2</string>
+				</dict>
+			</dict>
+			<key>comment</key>
+			<string>match kind declaration</string>
+			<key>match</key>
+			<string>(enyo)\.(kind|depends|log|warn|error|setLogLevel|setObject|getObject|irand|cap|uncap|format|isString|isFunction|indexOf|remove|forEach|map|filter|cloneArray|clone|mixin|bind|asyncMethod|call|job|job\.stop|macroize|quickMacroize|requestAnimationFrame|cancelRequestAnimationFrame|easedLerp|createFromKind|getCookie|setCookie|requiresWindow)</string>
+			<key>name</key>
+			<string>support.function.core.enyo2</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>match kind properties</string>
+			<key>match</key>
+			<string>(tag|kind|name|published|statics|classes|events|handlers|components):</string>
+			<key>name</key>
+			<string>support.variable.kind.enyo2</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>enyo</string>
+			<key>name</key>
+			<string>support.class.enyo2</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.js</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.js.enyo2</string>
+	<string>source.enyo2</string>
 	<key>uuid</key>
 	<string>8B472F8A-DA2A-4FEB-B9BE-99B2A9E363CF</string>
 </dict>

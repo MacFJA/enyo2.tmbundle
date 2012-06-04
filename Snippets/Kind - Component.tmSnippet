@@ -7,35 +7,25 @@
 	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
 	kind: "enyo.Component",
 	
-	published: {
-		${3:varname}: ${4:""}${5:,
-		//...}
-	},
+	${3:addKindPublished?}
 
-	events: {
-		${6:onEvent: ""}${7:,
-		//...}
-	},
+	${4:addKindStatics?}
 
-	statics: {
-		${8://...}
-	},
+	${5:addKindEvents?}
 
-	handlers: {
-		${9://...}
-	},
+	${6:addKindHandlers?}
 
 	components: [
-		${10://...}
+		${7://...}
 	],
+
+	${8:${9:privateVariable}: ${10:"default value"},}
 
 	create: function() {
 		this.inherited(arguments);
-		this.$3Changed();
-	},
-	
-	$3Changed: function() {
-		${11://...}
+		
+		//Initial variables xChanged call
+		//To get your kind up to date on creation
 	}
 });</string>
 	<key>name</key>

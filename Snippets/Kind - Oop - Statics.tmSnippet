@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>statics: {
+	${1:staticVariable: ${2:"default value"}${3:,
+	${4:staticFunction}: function(${5:argument1}) {
+		$6
+	}${7:,
+	//...}
+}${8:,}</string>
+	<key>name</key>
+	<string>Kind - Oop - Statics</string>
+	<key>tabTrigger</key>
+	<string>addKindStatics?</string>
+	<key>uuid</key>
+	<string>61E2B711-DD5C-4E28-B9E1-D2F3157C974A</string>
+</dict>
+</plist>

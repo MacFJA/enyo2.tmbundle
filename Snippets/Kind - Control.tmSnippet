@@ -6,36 +6,30 @@
 	<string>enyo.kind({
 	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
 	kind: "enyo.Control",
+
+	${3:tag: "${4:div}",
+	}${5:classes: "$6",
+}
 	
-	published: {
-		${3:varname}: ${4:""}${5:,
-		//...}
-	},
+	${7:addKindPublished?}
 
-	events: {
-		${6:onEvent: ""}${7:,
-		//...}
-	},
+	${8:addKindStatics?}
 
-	statics: {
-		${8://...}
-	},
+	${9:addKindEvents?}
 
-	handlers: {
-		${9://...}
-	},
+	${10:addKindHandlers?}
 
 	components: [
-		${10://...}
+		${11://...}
 	],
+
+	${12:${13:privateVariable}: ${14:"default value"},}
 
 	create: function() {
 		this.inherited(arguments);
-		this.$3Changed();
-	},
-	
-	$3Changed: function() {
-		${11://...}
+		
+		//Initial variables xChanged call
+		//To get your kind up to date on creation
 	}
 });</string>
 	<key>name</key>

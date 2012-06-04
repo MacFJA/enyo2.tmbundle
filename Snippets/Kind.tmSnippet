@@ -7,18 +7,17 @@
 	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
 	kind: "${3:enyo.Object}",
 	
-	published: {
-		${4:varname}: ${5:""}${6:,
-		//...}
-	},
-	
+	${4:addKindPublished?}
+
+	${5:addKindStatics?}
+
+	${6:${7:privateVariable}: ${8:"default value"},}
+
 	create: function() {
 		this.inherited(arguments);
-		this.$4Changed();
-	},
-	
-	$4Changed: function() {
-		${7://...}
+		
+		//Initial variables xChanged call
+		//To get your kind up to date on creation
 	}
 });</string>
 	<key>keyEquivalent</key>

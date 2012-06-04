@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>published: {
+	${1:varName}: ${2:"default value"}${3:,
+	//...}
+},
+
+${4:$1Changed: function(oldValue) {
+	$6
+\}${5:,}}</string>
+	<key>name</key>
+	<string>Kind - Object - Published</string>
+	<key>tabTrigger</key>
+	<string>addKindPublished?</string>
+	<key>uuid</key>
+	<string>03A31EF8-5219-4CEB-A59A-993796EFCB8B</string>
+</dict>
+</plist>

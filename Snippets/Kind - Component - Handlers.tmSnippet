@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>handlers: {
+	${1:onEvent: "${2:myHandlerMethod"}${3:,
+	//...}
+}${4:,}</string>
+	<key>name</key>
+	<string>Kind - Component - Handlers</string>
+	<key>tabTrigger</key>
+	<string>addKindHandlers?</string>
+	<key>uuid</key>
+	<string>058E061A-2417-41BB-BB3A-C251C273215C</string>
+</dict>
+</plist>

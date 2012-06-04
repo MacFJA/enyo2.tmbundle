@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>events: {
+	${1:onEvent: "$2"}${3:,
+	//...}
+}${4:,}</string>
+	<key>name</key>
+	<string>Kind - Component - Event</string>
+	<key>tabTrigger</key>
+	<string>addKindEvents?</string>
+	<key>uuid</key>
+	<string>57D89DFF-916E-498E-B3AB-83CD34E79EC8</string>
+</dict>
+</plist>

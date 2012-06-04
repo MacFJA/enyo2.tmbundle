@@ -57,6 +57,20 @@
 				<key>name</key>
 				<string>Log</string>
 			</dict>
+			<key>53A041DF-B227-43D5-8211-507608195CFC</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>61E2B711-DD5C-4E28-B9E1-D2F3157C974A</string>
+					<string>------------------------------------</string>
+					<string>03A31EF8-5219-4CEB-A59A-993796EFCB8B</string>
+					<string>------------------------------------</string>
+					<string>57D89DFF-916E-498E-B3AB-83CD34E79EC8</string>
+					<string>058E061A-2417-41BB-BB3A-C251C273215C</string>
+				</array>
+				<key>name</key>
+				<string>Properties</string>
+			</dict>
 			<key>542A0103-EE65-4B74-8315-865E101BC950</key>
 			<dict>
 				<key>items</key>
@@ -85,6 +99,8 @@
 					<string>B0949AD1-C59A-49CA-AC13-BEE2C55885E1</string>
 					<string>AD4FD834-6EC9-478F-89A9-5054AF3208A1</string>
 					<string>145D19D4-7B97-45AA-A9B7-55A950A2D07F</string>
+					<string>------------------------------------</string>
+					<string>53A041DF-B227-43D5-8211-507608195CFC</string>
 					<string>------------------------------------</string>
 					<string>A490B45B-3486-4092-9C73-E0A3F19F9A8A</string>
 				</array>
