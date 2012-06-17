@@ -67,6 +67,20 @@ Avalaible snippets
 		* Kind - Component Handlers [`addKindHandlers`&#x21E5;]  
 		Add handled event (snippet use on Component based kind creation)
 	* inherited [`inherited`&#x21E5; | &#x2303;&#x2191;]
+* __Animation & Animator
+	* requestAnimationFrame [`animation`&#x21E5;]
+	* cancelRequestAnimationFrame [`animation`&#x21E5;]
+	* easedLerp [`animation`&#x21E5;]
+	* _Easing Functions_
+		* easing - cubicIn [`easing`&#x21E5;]
+		* easing - cubicOut [`easing`&#x21E5;]
+		* easing - expoOut [`easing`&#x21E5;]
+		* easing - quadInOut [`easing`&#x21E5;]
+		* easing - linear [`easing`&#x21E5;]
+	* _Animator_
+		* Animator - play [`animator`&#x21E5;]
+		* Animator - stop [`animator`&#x21E5;]
+		* Animator - Inline kind [`{animator`&#x21E5;]
 * __Component__
 	* makeId [`id`&#x21E5;]
 	* destroy [`destroy`&#x21E5; | &#x2303;&#x232B;]
@@ -113,3 +127,4 @@ Avalaible snippets
 		* renderInto [`render`&#x21E5;]
 		* write [`render`&#x21E5;]
 * Inline kind [`{kind`&#x21E5;]
+* Documentation for selection [&#x2303;H]

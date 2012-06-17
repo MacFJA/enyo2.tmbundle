@@ -64,12 +64,36 @@
 			<string>support.function.core.enyo2</string>
 		</dict>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.constant.eventFlag.enyo2</string>
+				</dict>
+			</dict>
+			<key>comment</key>
+			<string>match event declaration (on/do)</string>
+			<key>match</key>
+			<string>(on|do)([A-Z][\w]+)</string>
+			<key>name</key>
+			<string>support.variable.event.enyo2</string>
+		</dict>
+		<dict>
 			<key>comment</key>
 			<string>match kind properties</string>
 			<key>match</key>
 			<string>(tag|kind|name|published|statics|classes|events|handlers|components):</string>
 			<key>name</key>
 			<string>support.variable.kind.enyo2</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>inherited</string>
+			<key>match</key>
+			<string>this\.inherited\(arguments\);</string>
+			<key>name</key>
+			<string>support.keyword.kind.enyo2</string>
 		</dict>
 		<dict>
 			<key>match</key>
