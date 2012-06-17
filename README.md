@@ -1,10 +1,17 @@
 enyo2.tmbundle
 ==============
+A [TextMate](http://macromates.com/) bundle for [Enyo 2](http://enyojs.com)
 
 Features
 ========
 Syntax coloration
 -----------------
+* All Enyo "core" method (see snippets of "Enyo core")
+* Easing function
+* Events (on/do)
+* Generic kind attributes (`tag`, `kind`, `name`, `published`, `statics`, `classes`, `events`, `handlers`, `components`)
+* `this.inherited(arguments)`
+* Javascript coloration
 
 Commands
 --------
@@ -67,7 +74,7 @@ Avalaible snippets
 		* Kind - Component Handlers [`addKindHandlers`&#x21E5;]  
 		Add handled event (snippet use on Component based kind creation)
 	* inherited [`inherited`&#x21E5; | &#x2303;&#x2191;]
-* __Animation & Animator
+* __Animation & Animator__
 	* requestAnimationFrame [`animation`&#x21E5;]
 	* cancelRequestAnimationFrame [`animation`&#x21E5;]
 	* easedLerp [`animation`&#x21E5;]
@@ -87,7 +94,7 @@ Avalaible snippets
 	* createComponent [`create`&#x21E5;]
 	* createComponents [`create`&#x21E5;]
 	* getComponents [`getc`&#x21E5;]
-	* destroyComponents [`destroy`&#x21E5; | &#x2325;&#x21E7;&#x232B;]
+	* destroyComponents [`destroy`&#x21E5; | &#x2303;&#x21E7;&#x232B;]
 	* addComponent [`addc`&#x21E5;]
 	* removeComponent [`removec`&#x21E5;]
 	* bubble [`bubble`&#x21E5;]
@@ -127,4 +134,3 @@ Avalaible snippets
 		* renderInto [`render`&#x21E5;]
 		* write [`render`&#x21E5;]
 * Inline kind [`{kind`&#x21E5;]
-* Documentation for selection [&#x2303;H]
