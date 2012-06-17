@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.easing.quadInOut</string>
+	<key>name</key>
+	<string>easing - quadInOut</string>
+	<key>tabTrigger</key>
+	<string>easing</string>
+	<key>uuid</key>
+	<string>F82921A0-086F-4D86-B318-4C58F9926F83</string>
+</dict>
+</plist>

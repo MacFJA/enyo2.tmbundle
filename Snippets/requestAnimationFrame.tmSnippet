@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.requestAnimationFrame("${1:callBack}", ${2:node})</string>
+	<key>name</key>
+	<string>requestAnimationFrame</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>F1D6C61A-D66A-4CF5-9BDB-B611840F9EAA</string>
+</dict>
+</plist>

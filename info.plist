@@ -9,6 +9,8 @@
 			<string>A536975B-0BDE-4124-BC57-80A5E43382CA</string>
 			<string>6897FACE-FC36-4AF2-9E21-574503A8034D</string>
 			<string>------------------------------------</string>
+			<string>598F77E8-249B-4AC9-92A4-28B513333667</string>
+			<string>------------------------------------</string>
 			<string>077F94AB-8104-44B7-8A60-284129EAA295</string>
 			<string>1E39C48B-F7C1-43A7-A87E-8CCA4322400F</string>
 			<string>26A8DD7F-B1A4-4E33-A528-5FFA847DBD18</string>
@@ -85,6 +87,19 @@
 				<key>name</key>
 				<string>Log</string>
 			</dict>
+			<key>3FDB9FC4-5FF1-4868-B0AB-1027B3B213F8</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>7345C7D3-A96C-493D-8D39-8190A11F8B83</string>
+					<string>01B62B40-45E2-481F-BD2E-3F26D2886702</string>
+					<string>02D68C7C-9559-4C03-BD4C-1F8AD32C4B2C</string>
+					<string>F82921A0-086F-4D86-B318-4C58F9926F83</string>
+					<string>01FE2827-324C-4F6A-B727-D2BF836221FA</string>
+				</array>
+				<key>name</key>
+				<string>Easing Functions</string>
+			</dict>
 			<key>433BD17C-3689-4949-B5DC-0892EDD9DA51</key>
 			<dict>
 				<key>items</key>
@@ -137,6 +152,21 @@
 				<key>name</key>
 				<string>Array/Object</string>
 			</dict>
+			<key>598F77E8-249B-4AC9-92A4-28B513333667</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F1D6C61A-D66A-4CF5-9BDB-B611840F9EAA</string>
+					<string>334970B9-3955-441B-B5D3-9620C7792563</string>
+					<string>------------------------------------</string>
+					<string>0112ADE4-5FF7-4A93-B70F-D11B779FCCC5</string>
+					<string>------------------------------------</string>
+					<string>3FDB9FC4-5FF1-4868-B0AB-1027B3B213F8</string>
+					<string>941E31F9-9E2A-40F2-B486-72A0AB696BFF</string>
+				</array>
+				<key>name</key>
+				<string>Animation &amp; Animator</string>
+			</dict>
 			<key>62D69BEA-23F8-47A4-9DCE-64F9B0BD6018</key>
 			<dict>
 				<key>items</key>
@@ -186,6 +216,18 @@
 				</array>
 				<key>name</key>
 				<string>Test</string>
+			</dict>
+			<key>941E31F9-9E2A-40F2-B486-72A0AB696BFF</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>229CB771-8028-480F-9924-8474EEBCC2EB</string>
+					<string>AC5F955E-3F1C-403A-94EB-257B48FEEC8B</string>
+					<string>------------------------------------</string>
+					<string>31458A21-2440-4D08-89CD-56438AE29082</string>
+				</array>
+				<key>name</key>
+				<string>Animator</string>
 			</dict>
 			<key>978BDF64-F731-4B0B-86D1-56EDE686867F</key>
 			<dict>
@@ -366,6 +408,17 @@
 		<string>285E6CEC-C3DE-4A52-9F84-B0571DC6DBD9</string>
 		<string>66819B89-997A-4180-A990-5736CC53B2EB</string>
 		<string>D532FE2E-5001-4A9F-A3E1-E833330B5382</string>
+		<string>F1D6C61A-D66A-4CF5-9BDB-B611840F9EAA</string>
+		<string>334970B9-3955-441B-B5D3-9620C7792563</string>
+		<string>0112ADE4-5FF7-4A93-B70F-D11B779FCCC5</string>
+		<string>7345C7D3-A96C-493D-8D39-8190A11F8B83</string>
+		<string>01B62B40-45E2-481F-BD2E-3F26D2886702</string>
+		<string>02D68C7C-9559-4C03-BD4C-1F8AD32C4B2C</string>
+		<string>F82921A0-086F-4D86-B318-4C58F9926F83</string>
+		<string>01FE2827-324C-4F6A-B727-D2BF836221FA</string>
+		<string>229CB771-8028-480F-9924-8474EEBCC2EB</string>
+		<string>AC5F955E-3F1C-403A-94EB-257B48FEEC8B</string>
+		<string>31458A21-2440-4D08-89CD-56438AE29082</string>
 	</array>
 	<key>uuid</key>
 	<string>E579FB16-70E1-44DC-9DFA-EB7532FA405E</string>

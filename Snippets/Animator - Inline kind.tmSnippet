@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{kind: "enyo.Animator"${1:, name: "${2:myAnimator}"}${3:, startValue: ${4:0}}${5:, endValue: ${6:1}}${7:, duration: ${8:350}}${9:, easingFunction: easing$0}${10:, onStep: "${11:myStepFunction}"}${12:, onEnd: "${13:myEndFunction}"}${14:, onStop: "${15:myStopFunction}"}</string>
+	<key>name</key>
+	<string>Animator - Inline kind</string>
+	<key>tabTrigger</key>
+	<string>{animator</string>
+	<key>uuid</key>
+	<string>31458A21-2440-4D08-89CD-56438AE29082</string>
+</dict>
+</plist>

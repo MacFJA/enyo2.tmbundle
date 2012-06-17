@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.easing.expoOut</string>
+	<key>name</key>
+	<string>easing - expoOut</string>
+	<key>tabTrigger</key>
+	<string>easing</string>
+	<key>uuid</key>
+	<string>02D68C7C-9559-4C03-BD4C-1F8AD32C4B2C</string>
+</dict>
+</plist>

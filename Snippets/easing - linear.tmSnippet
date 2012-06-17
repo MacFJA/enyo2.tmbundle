@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.easing.linear</string>
+	<key>name</key>
+	<string>easing - linear</string>
+	<key>tabTrigger</key>
+	<string>easing</string>
+	<key>uuid</key>
+	<string>01FE2827-324C-4F6A-B727-D2BF836221FA</string>
+</dict>
+</plist>

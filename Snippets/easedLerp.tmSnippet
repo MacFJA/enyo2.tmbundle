@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>enyo.easedLerp(${1:startTime}, ${2:duration}, ${3:easing})</string>
+	<key>name</key>
+	<string>easedLerp</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>0112ADE4-5FF7-4A93-B70F-D11B779FCCC5</string>
+</dict>
+</plist>
