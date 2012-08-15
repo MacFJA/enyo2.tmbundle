@@ -134,3 +134,11 @@ Avalaible snippets
 		* renderInto [`render`&#x21E5;]
 		* write [`render`&#x21E5;]
 * Inline kind [`{kind`&#x21E5;]
+* __UI__
+	* Button [`{button`&#x21E5;]
+	* Checkbox [`{checkbox`&#x21E5;]
+	* Image [`{image`&#x21E5;]
+	* Input [`{input`&#x21E5;]
+	* Repeater [`{repeater`&#x21E5;]
+	* RichText [`{richtext`&#x21E5;]
+	* TextArea [`{textarea`&#x21E5;]
