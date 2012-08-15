@@ -10,15 +10,14 @@
 	${3:tag: "${4:div}",
 	}${5:classes: "$6",
 }
-	
-	${7:addKindPublished?}
-
-	${8:addKindStatics?}
-
-	${9:addKindEvents?}
-
-	${10:addKindHandlers?}
-
+	${7:addKindPublished?
+}
+	${8:addKindStatics?
+}
+	${9:addKindEvents?
+}
+	${10:addKindHandlers?
+}
 	components: [
 		${11://...}
 	],

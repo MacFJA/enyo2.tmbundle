@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{${1: }${2:kind: "${3:enyo.Control}",$1}${4:name: "${5:controlName}",$1}${6:content: ${7:"My text"},$1}${8:classes: "${9:enyo.Control}",$1}${10:ontap: "${11:myHandler}"}${1/(\n\s*)|.*/(?1:\n)/}</string>
+	<string>{${1:}${2:kind: "${3:enyo.Control}", $1}${4:name: "${5:controlName}", $1}${6:content: ${7:"My text"}, $1}${8:classes: "${9:enyo.Control}", $1}${10:ontap: "${11:myHandler}"}${1/(\n\s*)|.*/(?1:\n)/}</string>
 	<key>name</key>
 	<string>Inline kind</string>
 	<key>tabTrigger</key>

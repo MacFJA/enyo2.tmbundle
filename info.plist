@@ -14,6 +14,7 @@
 			<string>077F94AB-8104-44B7-8A60-284129EAA295</string>
 			<string>1E39C48B-F7C1-43A7-A87E-8CCA4322400F</string>
 			<string>26A8DD7F-B1A4-4E33-A528-5FFA847DBD18</string>
+			<string>211D3FF1-59A1-401A-A119-DF51D440ED30</string>
 			<string>------------------------------------</string>
 			<string>1450967D-2D92-42B9-B899-0DBC93B5348D</string>
 		</array>
@@ -75,6 +76,21 @@
 				</array>
 				<key>name</key>
 				<string>Style</string>
+			</dict>
+			<key>211D3FF1-59A1-401A-A119-DF51D440ED30</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>986813AC-A1AD-42FE-A73A-22FB2BBE002E</string>
+					<string>355B6DA6-1743-4A4A-954C-F8DFAF298027</string>
+					<string>B69F34B1-97E4-4BF8-930C-D860E1570094</string>
+					<string>1D4C7E67-AD03-4F9C-88C7-71E046F7B444</string>
+					<string>4DDB0E75-8839-4B5D-84C0-AD3365A8E36E</string>
+					<string>224ECCDF-A4D4-4269-9F02-27B3DFA70C4D</string>
+					<string>9DCC1800-E868-414D-B05A-D3654741C993</string>
+				</array>
+				<key>name</key>
+				<string>UI</string>
 			</dict>
 			<key>2EEA4B5A-BFD3-4F3E-B3AD-6808BB7D36D9</key>
 			<dict>
@@ -421,6 +437,13 @@
 		<string>AC5F955E-3F1C-403A-94EB-257B48FEEC8B</string>
 		<string>9E4B7578-1420-498A-9F3C-A5D540AAEEA2</string>
 		<string>31458A21-2440-4D08-89CD-56438AE29082</string>
+		<string>986813AC-A1AD-42FE-A73A-22FB2BBE002E</string>
+		<string>355B6DA6-1743-4A4A-954C-F8DFAF298027</string>
+		<string>B69F34B1-97E4-4BF8-930C-D860E1570094</string>
+		<string>1D4C7E67-AD03-4F9C-88C7-71E046F7B444</string>
+		<string>4DDB0E75-8839-4B5D-84C0-AD3365A8E36E</string>
+		<string>224ECCDF-A4D4-4269-9F02-27B3DFA70C4D</string>
+		<string>9DCC1800-E868-414D-B05A-D3654741C993</string>
 	</array>
 	<key>uuid</key>
 	<string>E579FB16-70E1-44DC-9DFA-EB7532FA405E</string>

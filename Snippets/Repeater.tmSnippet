@@ -3,16 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>enyo.depends(
-	"${1:main.js}"${2:,
-	"${3:main.css}"${4:,
-	"${5:sources}"}}
-);</string>
+	<string>{kind: "enyo.Repeater", rows: ${1:0}, onSetupRow: "${2:myRowHandler}", components: [$0]</string>
 	<key>name</key>
-	<string>depends</string>
+	<string>Repeater</string>
 	<key>tabTrigger</key>
-	<string>depends</string>
+	<string>{repeater</string>
 	<key>uuid</key>
-	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+	<string>4DDB0E75-8839-4B5D-84C0-AD3365A8E36E</string>
 </dict>
 </plist>

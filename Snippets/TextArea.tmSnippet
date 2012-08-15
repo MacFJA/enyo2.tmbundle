@@ -3,16 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>enyo.depends(
-	"${1:main.js}"${2:,
-	"${3:main.css}"${4:,
-	"${5:sources}"}}
-);</string>
+	<string>{kind: "enyo.TextArea", value: "${1:myText}"${2:, disabled: ${3:f}${3/(t)|(f)/(?1:rue)(?2:alse)/}}</string>
 	<key>name</key>
-	<string>depends</string>
+	<string>TextArea</string>
 	<key>tabTrigger</key>
-	<string>depends</string>
+	<string>{textarea</string>
 	<key>uuid</key>
-	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+	<string>9DCC1800-E868-414D-B05A-D3654741C993</string>
 </dict>
 </plist>

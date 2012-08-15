@@ -3,16 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>enyo.depends(
-	"${1:main.js}"${2:,
-	"${3:main.css}"${4:,
-	"${5:sources}"}}
-);</string>
+	<string>{kind: "enyo.Button", content: "${1:My Button}", ontap: "${2:myTapHandler}"</string>
 	<key>name</key>
-	<string>depends</string>
+	<string>Button</string>
 	<key>tabTrigger</key>
-	<string>depends</string>
+	<string>{button</string>
 	<key>uuid</key>
-	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+	<string>986813AC-A1AD-42FE-A73A-22FB2BBE002E</string>
 </dict>
 </plist>

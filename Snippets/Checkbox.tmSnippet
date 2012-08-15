@@ -3,16 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>enyo.depends(
-	"${1:main.js}"${2:,
-	"${3:main.css}"${4:,
-	"${5:sources}"}}
-);</string>
+	<string>{kind: "enyo.Checkbox", checked: ${1:t}${1/(t)|(f)/(?1:rue)(?2:alse)/}, onchange: "${2:myChangeHandler}"</string>
 	<key>name</key>
-	<string>depends</string>
+	<string>Checkbox</string>
 	<key>tabTrigger</key>
-	<string>depends</string>
+	<string>{checkbox</string>
 	<key>uuid</key>
-	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+	<string>355B6DA6-1743-4A4A-954C-F8DFAF298027</string>
 </dict>
 </plist>

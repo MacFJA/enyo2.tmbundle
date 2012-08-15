@@ -3,16 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>enyo.depends(
-	"${1:main.js}"${2:,
-	"${3:main.css}"${4:,
-	"${5:sources}"}}
-);</string>
+	<string>{kind: "enyo.RichText", value: ${1:"my &lt;b&gt;Text&lt;/b&gt;"}${2:, disabled: ${3:f}${3/(t)|(f)/(?1:rue)(?2:alse)/}}</string>
 	<key>name</key>
-	<string>depends</string>
+	<string>RichText</string>
 	<key>tabTrigger</key>
-	<string>depends</string>
+	<string>{richtext</string>
 	<key>uuid</key>
-	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+	<string>224ECCDF-A4D4-4269-9F02-27B3DFA70C4D</string>
 </dict>
 </plist>

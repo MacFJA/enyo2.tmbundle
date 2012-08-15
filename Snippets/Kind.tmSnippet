@@ -7,10 +7,10 @@
 	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
 	kind: "${3:enyo.Object}",
 	
-	${4:addKindPublished?}
-
-	${5:addKindStatics?}
-
+	${4:addKindPublished?
+}
+	${5:addKindStatics?
+}
 	${6:${7:privateVariable}: ${8:"default value"},}
 
 	create: function() {

@@ -3,16 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>enyo.depends(
-	"${1:main.js}"${2:,
-	"${3:main.css}"${4:,
-	"${5:sources}"}}
-);</string>
+	<string>{kind: "enyo.Image", attribute: {src: "${1:myImage.jpg}"}</string>
 	<key>name</key>
-	<string>depends</string>
+	<string>Image</string>
 	<key>tabTrigger</key>
-	<string>depends</string>
+	<string>{image</string>
 	<key>uuid</key>
-	<string>BDDA9997-AD5F-447D-93C6-0D88E2D0E1E3</string>
+	<string>B69F34B1-97E4-4BF8-930C-D860E1570094</string>
 </dict>
 </plist>

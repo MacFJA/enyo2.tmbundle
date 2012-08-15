@@ -7,13 +7,14 @@
 	name: "${1:name_space.}${2:${TM_FILENAME/(.*?)(\..+)/$1/}}",
 	kind: "enyo.Component",
 	
-	${3:addKindPublished?}
-
-	${4:addKindStatics?}
-
-	${5:addKindEvents?}
-
-	${6:addKindHandlers?}
+	${3:addKindPublished?
+}
+	${4:addKindStatics?
+}
+	${5:addKindEvents?
+}
+	${6:addKindHandlers?
+}
 
 	components: [
 		${7://...}

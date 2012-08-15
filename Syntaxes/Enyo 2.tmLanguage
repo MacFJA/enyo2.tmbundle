@@ -75,7 +75,23 @@
 			<key>comment</key>
 			<string>match event declaration (on/do)</string>
 			<key>match</key>
-			<string>(on|do)([A-Z][\w]+)</string>
+			<string>[\s|\W](on|do)([A-Z][\w]+)</string>
+			<key>name</key>
+			<string>support.variable.event.enyo2</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.constant.eventFlag.enyo2</string>
+				</dict>
+			</dict>
+			<key>comment</key>
+			<string>match event declaration (on/do)</string>
+			<key>match</key>
+			<string>(\w+)(Changed)\W</string>
 			<key>name</key>
 			<string>support.variable.event.enyo2</string>
 		</dict>
@@ -107,7 +123,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.enyo2</string>
+	<string>source.js.enyo2</string>
 	<key>uuid</key>
 	<string>8B472F8A-DA2A-4FEB-B9BE-99B2A9E363CF</string>
 </dict>
